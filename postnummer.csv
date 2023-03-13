@@ -1,0 +1,1458 @@
+Postnr.;Bynavn;Gade;Firma;Provins;Land
+0555;Scanning;;Data Scanning A/S;True;1
+0783;Facility;;;False;1
+0784;H&M;Postbox 600;(Return parcels);False;1
+0785;Bestseller ;Postbox 580;(Return parcels);False;1
+0800;Hõje Taastrup;Girostrõget 1;BG-Bank A/S;True;1
+0877;Kõbenhavn C;Havneholmen 33;Aller Press (konkurrencer);False;1
+0892;Sjëlland USF P;Ufrankerede svarforsendelser;;False;1
+0893;Sjëlland USF B;Ufrankerede svarforsendelser;;False;1
+0894;Udbetaling;;(Post til scanning);False;1
+0899;Kommuneservice;;(Post til scanning);False;1
+0900;Kõbenhavn C;;Kõbenhavns Postcenter + erhvervskunder;False;1
+0910;Kõbenhavn C;Ufrankerede svarforsendelser ;;False;1
+0913;Kõbenhavns Pakkecenter;;Zalando returpakker;False;1
+0914;Kõbenhavns Pakkecenter;;(Returpakker);False;1
+0917;Kõbenhavns Pakkecenter;;(Returpakker);False;1
+0918;Kõbenhavns Pakke BRC;;(Returpakker);False;1
+0919;Returprint BRC;;;False;1
+0929;Kõbenhavn C;Ufrankerede svarforsendelser;;False;1
+0960;Internationalt Postcenter;;(Internt);False;1
+0999;Kõbenhavn C;;DR Byen;False;1
+1001;Kõbenhavn K;Postboks;;False;1
+1002;Kõbenhavn K;Postboks;;False;1
+1003;Kõbenhavn K;Postboks;;False;1
+1004;Kõbenhavn K;Postboks;;False;1
+1005;Kõbenhavn K;Postboks;;False;1
+1006;Kõbenhavn K;Postboks;;False;1
+1007;Kõbenhavn K;Postboks;;False;1
+1008;Kõbenhavn K;Postboks;;False;1
+1009;Kõbenhavn K;Postboks;;False;1
+1010;Kõbenhavn K;Postboks;;False;1
+1011;Kõbenhavn K;Postboks;;False;1
+1012;Kõbenhavn K;Postboks;;False;1
+1013;Kõbenhavn K;Postboks;;False;1
+1014;Kõbenhavn K;Postboks;;False;1
+1015;Kõbenhavn K;Postboks;;False;1
+1016;Kõbenhavn K;Postboks;;False;1
+1017;Kõbenhavn K;Postboks;;False;1
+1018;Kõbenhavn K;Postboks;;False;1
+1019;Kõbenhavn K;Postboks;;False;1
+1020;Kõbenhavn K;Postboks;;False;1
+1021;Kõbenhavn K;Postboks;;False;1
+1022;Kõbenhavn K;Postboks;;False;1
+1023;Kõbenhavn K;Postboks;;False;1
+1024;Kõbenhavn K;Postboks;;False;1
+1025;Kõbenhavn K;Postboks;;False;1
+1026;Kõbenhavn K;Postboks;;False;1
+1045;Kõbenhavn K;Ufrankerede svarforsendelser;;False;1
+1050;Kõbenhavn K;Kongens Nytorv;;False;1
+1051;Kõbenhavn K;Nyhavn;;False;1
+1052;Kõbenhavn K;Herluf Trolles Gade;;False;1
+1053;Kõbenhavn K;Cort Adelers Gade;;False;1
+1054;Kõbenhavn K;Peder Skrams Gade;;False;1
+1055;Kõbenhavn K;Tordenskjoldsgade;;False;1
+1055;Kõbenhavn K;August Bournonvilles Passage;;False;1
+1056;Kõbenhavn K;Heibergsgade;;False;1
+1057;Kõbenhavn K;Holbergsgade;;False;1
+1058;Kõbenhavn K;Havnegade;;False;1
+1059;Kõbenhavn K;Niels Juels Gade;;False;1
+1060;Kõbenhavn K;Holmens Kanal;;False;1
+1061;Kõbenhavn K;Ved Stranden;;False;1
+1062;Kõbenhavn K;Boldhusgade;;False;1
+1063;Kõbenhavn K;Laksegade;;False;1
+1064;Kõbenhavn K;Asylgade;;False;1
+1065;Kõbenhavn K;Fortunstrëde;;False;1
+1066;Kõbenhavn K;Admiralgade;;False;1
+1067;Kõbenhavn K;Nikolaj Plads;;False;1
+1068;Kõbenhavn K;Nikolajgade;;False;1
+1069;Kõbenhavn K;Bremerholm;;False;1
+1070;Kõbenhavn K;VingÜrdstrëde;;False;1
+1071;Kõbenhavn K;Dybensgade;;False;1
+1072;Kõbenhavn K;Lille Kirkestrëde;;False;1
+1073;Kõbenhavn K;Store Kirkestrëde;;False;1
+1074;Kõbenhavn K;Lille Kongensgade;;False;1
+1092;Kõbenhavn K;Holmens Kanal 2-12;Danske Bank A/S;False;1
+1093;Kõbenhavn K;Havnegade 5;Danmarks Nationalbank;False;1
+1095;Kõbenhavn K;Kongens Nytorv 13;Magasin du Nord;False;1
+1098;Kõbenhavn K;Esplanaden 50;A.P. Mõller;False;1
+1100;Kõbenhavn K;ùstergade;;False;1
+1101;Kõbenhavn K;Ny ùstergade;;False;1
+1102;Kõbenhavn K;Pistolstrëde;;False;1
+1103;Kõbenhavn K;Hovedvagtsgade;;False;1
+1104;Kõbenhavn K;Ny Adelgade;;False;1
+1105;Kõbenhavn K;Kristen Bernikows Gade;;False;1
+1106;Kõbenhavn K;Antonigade;;False;1
+1107;Kõbenhavn K;Grõnnegade;;False;1
+1110;Kõbenhavn K;Store Regnegade;;False;1
+1111;Kõbenhavn K;Christian IX's Gade;;False;1
+1112;Kõbenhavn K;Pilestrëde;;False;1
+1113;Kõbenhavn K;Silkegade;;False;1
+1114;Kõbenhavn K;Kronprinsensgade;;False;1
+1115;Kõbenhavn K;Klareboderne;;False;1
+1116;Kõbenhavn K;Mõntergade;;False;1
+1117;Kõbenhavn K;Gammel Mõnt;;False;1
+1118;Kõbenhavn K;Svërtegade;;False;1
+1119;Kõbenhavn K;Landemërket;;False;1
+1120;Kõbenhavn K;Vognmagergade;;False;1
+1121;Kõbenhavn K;Lõnporten;;False;1
+1122;Kõbenhavn K;Sjëleboderne;;False;1
+1123;Kõbenhavn K;Gothersgade;;False;1
+1124;Kõbenhavn K;èbenrÜ;;False;1
+1125;Kõbenhavn K;Suhmsgade;;False;1
+1126;Kõbenhavn K;Pustervig;;False;1
+1127;Kõbenhavn K;Hauser Plads;;False;1
+1128;Kõbenhavn K;Hausergade;;False;1
+1129;Kõbenhavn K;Sankt Gertruds Strëde;;False;1
+1130;Kõbenhavn K;Rosenborggade;;False;1
+1131;Kõbenhavn K;Tornebuskegade;;False;1
+1140;Kõbenhavn K;Mõntergade 19;Dagbladet Bõrsen;False;1
+1147;Kõbenhavn K;Pilestrëde 34;Berlingske Medier;False;1
+1148;Kõbenhavn K;Vognmagergade 11;Egmont;False;1
+1150;Kõbenhavn K;Kõbmagergade;;False;1
+1151;Kõbenhavn K;Valkendorfsgade;;False;1
+1152;Kõbenhavn K;Lõvstrëde;;False;1
+1153;Kõbenhavn K;Niels Hemmingsens Gade;;False;1
+1154;Kõbenhavn K;GrÜbrõdretorv;;False;1
+1155;Kõbenhavn K;Kejsergade;;False;1
+1156;Kõbenhavn K;GrÜbrõdrestrëde;;False;1
+1157;Kõbenhavn K;Klosterstrëde;;False;1
+1158;Kõbenhavn K;Skoubogade;;False;1
+1159;Kõbenhavn K;Skindergade;;False;1
+1160;Kõbenhavn K;Amagertorv;;False;1
+1161;Kõbenhavn K;Vimmelskaftet;;False;1
+1162;Kõbenhavn K;Jorcks Passage;;False;1
+1164;Kõbenhavn K;Nygade;;False;1
+1165;Kõbenhavn K;Nõrregade;;False;1
+1165;Kõbenhavn K;Sankt Petri Passage;;False;1
+1166;Kõbenhavn K;Dyrkõb;;False;1
+1167;Kõbenhavn K;Bispetorvet;;False;1
+1168;Kõbenhavn K;Frue Plads;;False;1
+1169;Kõbenhavn K;Store Kannikestrëde;;False;1
+1170;Kõbenhavn K;Lille Kannikestrëde;;False;1
+1171;Kõbenhavn K;Fiolstrëde;;False;1
+1172;Kõbenhavn K;Krystalgade;;False;1
+1173;Kõbenhavn K;Peder Hvitfeldts Strëde;;False;1
+1174;Kõbenhavn K;RosengÜrden;;False;1
+1175;Kõbenhavn K;Kultorvet;;False;1
+1200;Kõbenhavn K;Hõjbro Plads;;False;1
+1201;Kõbenhavn K;Lëderstrëde;;False;1
+1202;Kõbenhavn K;Gammel Strand;;False;1
+1203;Kõbenhavn K;Nybrogade;;False;1
+1204;Kõbenhavn K;Magstrëde;;False;1
+1205;Kõbenhavn K;Snaregade;;False;1
+1206;Kõbenhavn K;Nabolõs;;False;1
+1207;Kõbenhavn K;Hyskenstrëde;;False;1
+1208;Kõbenhavn K;Kompagnistrëde;;False;1
+1209;Kõbenhavn K;Badstuestrëde;;False;1
+1210;Kõbenhavn K;Knabrostrëde;;False;1
+1211;Kõbenhavn K;Brolëggerstrëde;;False;1
+1212;Kõbenhavn K;Vindebrogade;;False;1
+1213;Kõbenhavn K;Bertel Thorvaldsens Plads;;False;1
+1214;Kõbenhavn K;Tõjhusgade;;False;1
+1215;Kõbenhavn K;Bõrsgade;;False;1
+1216;Kõbenhavn K;Slotsholmsgade;;False;1
+1217;Kõbenhavn K;Slotsholmsgade 1;Bõrsen;False;1
+1218;Kõbenhavn K;Christiansborg;;False;1
+1218;Kõbenhavn K;Christiansborg Ridebane;;False;1
+1218;Kõbenhavn K;Christiansborg Slotsplads;;False;1
+1218;Kõbenhavn K;Prins Jõrgens GÜrd;;False;1
+1218;Kõbenhavn K;Proviantpassagen;;False;1
+1218;Kõbenhavn K;RigsdagsgÜrden;;False;1
+1219;Kõbenhavn K;Christians Brygge 1-5 og 8;;False;1
+1220;Kõbenhavn K;Frederiksholms Kanal;;False;1
+1221;Kõbenhavn K;Sõren Kierkegaards Plads;;False;1
+1240;Kõbenhavn K;Christiansborg;Folketinget;False;1
+1250;Kõbenhavn K;Sankt Annë Plads;;False;1
+1251;Kõbenhavn K;Kvësthusgade;;False;1
+1252;Kõbenhavn K;Kvësthusbroen;;False;1
+1253;Kõbenhavn K;Toldbodgade;;False;1
+1254;Kõbenhavn K;Lille Strandstrëde;;False;1
+1255;Kõbenhavn K;Store Strandstrëde;;False;1
+1256;Kõbenhavn K;Amaliegade;;False;1
+1257;Kõbenhavn K;Amalienborg;;False;1
+1259;Kõbenhavn K;Nordre Toldbod;;False;1
+1259;Kõbenhavn K;Trekroner;;False;1
+1260;Kõbenhavn K;Bredgade;;False;1
+1261;Kõbenhavn K;Palëgade;;False;1
+1263;Kõbenhavn K;Churchillparken;;False;1
+1263;Kõbenhavn K;Esplanaden;;False;1
+1264;Kõbenhavn K;Store Kongensgade;;False;1
+1265;Kõbenhavn K;Frederiksgade;;False;1
+1266;Kõbenhavn K;Bornholmsgade;;False;1
+1267;Kõbenhavn K;Hammerensgade;;False;1
+1268;Kõbenhavn K;Jens Kofods Gade;;False;1
+1270;Kõbenhavn K;Grõnningen;;False;1
+1271;Kõbenhavn K;Poul Ankers Gade;;False;1
+1300;Kõbenhavn K;Borgergade;;False;1
+1301;Kõbenhavn K;Landgreven;;False;1
+1302;Kõbenhavn K;Dronningens Tvërgade;;False;1
+1303;Kõbenhavn K;Hindegade;;False;1
+1304;Kõbenhavn K;Adelgade;;False;1
+1306;Kõbenhavn K;Kronprinsessegade;;False;1
+1307;Kõbenhavn K;Georg Brandes Plads;;False;1
+1307;Kõbenhavn K;Sõlvgade;;False;1
+1308;Kõbenhavn K;Klerkegade;;False;1
+1309;Kõbenhavn K;Rosengade;;False;1
+1310;Kõbenhavn K;Fredericiagade;;False;1
+1311;Kõbenhavn K;Olfert Fischers Gade;;False;1
+1312;Kõbenhavn K;Gammelvagt;;False;1
+1313;Kõbenhavn K;Sankt Pauls Gade;;False;1
+1314;Kõbenhavn K;Sankt Pauls Plads;;False;1
+1315;Kõbenhavn K;Rëvegade;;False;1
+1316;Kõbenhavn K;Rigensgade;;False;1
+1317;Kõbenhavn K;Stokhusgade;;False;1
+1318;Kõbenhavn K;Krusemyntegade;;False;1
+1319;Kõbenhavn K;Gernersgade;;False;1
+1320;Kõbenhavn K;Haregade;;False;1
+1321;Kõbenhavn K;Tigergade;;False;1
+1322;Kõbenhavn K;Suensonsgade;;False;1
+1323;Kõbenhavn K;Hjertensfrydsgade;;False;1
+1324;Kõbenhavn K;Elsdyrsgade;;False;1
+1325;Kõbenhavn K;Delfingade;;False;1
+1326;Kõbenhavn K;Krokodillegade;;False;1
+1327;Kõbenhavn K;Vildandegade;;False;1
+1328;Kõbenhavn K;Svanegade;;False;1
+1329;Kõbenhavn K;Timiansgade;;False;1
+1350;Kõbenhavn K;ùster Voldgade;;False;1
+1352;Kõbenhavn K;Rõrholmsgade;;False;1
+1353;Kõbenhavn K;ùster Farimagsgade 3-15 og 2;;False;1
+1354;Kõbenhavn K;Ole Suhrs Gade;;False;1
+1355;Kõbenhavn K;Gammeltoftsgade;;False;1
+1356;Kõbenhavn K;Bartholinsgade;;False;1
+1357;Kõbenhavn K;ùster Sõgade 8-36;;False;1
+1358;Kõbenhavn K;Nõrre Voldgade;;False;1
+1359;Kõbenhavn K;Ahlefeldtsgade;;False;1
+1359;Kõbenhavn K;Charlotte Ammundsens Plads;;False;1
+1360;Kõbenhavn K;Frederiksborggade;;False;1
+1361;Kõbenhavn K;Israels Plads;;False;1
+1361;Kõbenhavn K;LinnÇsgade;;False;1
+1362;Kõbenhavn K;Rõmersgade;;False;1
+1363;Kõbenhavn K;Vendersgade;;False;1
+1364;Kõbenhavn K;Nõrre Farimagsgade;;False;1
+1365;Kõbenhavn K;Schacksgade;;False;1
+1366;Kõbenhavn K;Nansensgade;;False;1
+1367;Kõbenhavn K;Kjeld Langes Gade;;False;1
+1368;Kõbenhavn K;Turesensgade;;False;1
+1369;Kõbenhavn K;Gyldenlõvesgade lige nr.;;False;1
+1370;Kõbenhavn K;Nõrre Sõgade;;False;1
+1371;Kõbenhavn K;Sõtorvet;;False;1
+1400;Kõbenhavn K;Knippelsbro;;False;1
+1400;Kõbenhavn K;Torvegade;;False;1
+1401;Kõbenhavn K;Strandgade;;False;1
+1402;Kõbenhavn K;Asiatisk Plads;;False;1
+1402;Kõbenhavn K;David Balfours Gade;;False;1
+1402;Kõbenhavn K;Hammershõi Kaj;;False;1
+1402;Kõbenhavn K;Johan Semps Gade;;False;1
+1402;Kõbenhavn K;Nicolai Eigtveds Gade;;False;1
+1403;Kõbenhavn K;Wilders Plads;;False;1
+1406;Kõbenhavn K;Christianshavns Kanal;;False;1
+1407;Kõbenhavn K;BÜdsmandsstrëde;;False;1
+1408;Kõbenhavn K;Wildersgade;;False;1
+1409;Kõbenhavn K;Knippelsbrogade;;False;1
+1410;Kõbenhavn K;Christianshavns Torv;;False;1
+1411;Kõbenhavn K;Langebrogade;;False;1
+1411;Kõbenhavn K;Applebys Plads;;False;1
+1412;Kõbenhavn K;VoldgÜrden;;False;1
+1413;Kõbenhavn K;Ved Kanalen;;False;1
+1414;Kõbenhavn K;Overgaden Neden Vandet;;False;1
+1415;Kõbenhavn K;Overgaden Oven Vandet;;False;1
+1416;Kõbenhavn K;Sankt Annë Gade;;False;1
+1417;Kõbenhavn K;Mikkel Vibes Gade;;False;1
+1418;Kõbenhavn K;Sofiegade;;False;1
+1419;Kõbenhavn K;Store Sõndervoldstrëde;;False;1
+1420;Kõbenhavn K;Dronningensgade;;False;1
+1421;Kõbenhavn K;Lille Sõndervoldstrëde;;False;1
+1422;Kõbenhavn K;Prinsessegade;;False;1
+1423;Kõbenhavn K;Amagergade;;False;1
+1424;Kõbenhavn K;Christianshavns Voldgade;;False;1
+1425;Kõbenhavn K;Ved Volden;;False;1
+1426;Kõbenhavn K;Voldboligerne;;False;1
+1427;Kõbenhavn K;Brobergsgade;;False;1
+1428;Kõbenhavn K;Andreas Bjõrns Gade;;False;1
+1429;Kõbenhavn K;Burmeistersgade;;False;1
+1430;Kõbenhavn K;Bodenhoffs Plads;;False;1
+1432;Kõbenhavn K;Margretheholmsvej;;False;1
+1432;Kõbenhavn K;Refshalevej;;False;1
+1432;Kõbenhavn K;William Wains Gade;;False;1
+1433;Kõbenhavn K;Christiansholms ù;;False;1
+1433;Kõbenhavn K;Flakfortet;;False;1
+1433;Kõbenhavn K;Lynetten;;False;1
+1433;Kõbenhavn K;Margretheholm;;False;1
+1433;Kõbenhavn K;Middelgrundsfortet;;False;1
+1433;Kõbenhavn K;Quintus;;False;1
+1433;Kõbenhavn K;Refshaleõen;;False;1
+1434;Kõbenhavn K;Danneskiold-Samsões AllÇ;;False;1
+1434;Kõbenhavn K;KuglegÜrdsvej;;False;1
+1435;Kõbenhavn K;Philip De Langes AllÇ;;False;1
+1436;Kõbenhavn K;Arsenalvej;;False;1
+1436;Kõbenhavn K;Halvtolv;;False;1
+1436;Kõbenhavn K;KuglegÜrden;;False;1
+1436;Kõbenhavn K;Sõartillerivej;;False;1
+1436;Kõbenhavn K;Trangravsvej;;False;1
+1436;Kõbenhavn K;Vërftsbroen;;False;1
+1437;Kõbenhavn K;Bohlendachvej;;False;1
+1437;Kõbenhavn K;Eik Skalões Plads;;False;1
+1437;Kõbenhavn K;Fabrikmestervej;;False;1
+1437;Kõbenhavn K;Galionsvej;;False;1
+1437;Kõbenhavn K;KanonbÜdsvej;;False;1
+1437;Kõbenhavn K;Leo Mathisens Vej;;False;1
+1437;Kõbenhavn K;Masteskursvej;;False;1
+1437;Kõbenhavn K;Per Knutzons Vej;;False;1
+1437;Kõbenhavn K;Schifters Kvarter;;False;1
+1437;Kõbenhavn K;Stibolts Kvarter;;False;1
+1437;Kõbenhavn K;Takkelloftsvej;;False;1
+1437;Kõbenhavn K;Theodor Christensens Plads;;False;1
+1438;Kõbenhavn K;Benstrups Kvarter;;False;1
+1438;Kõbenhavn K;Dokõvej;;False;1
+1438;Kõbenhavn K;Ekvipagemestervej;;False;1
+1438;Kõbenhavn K;Judichërs Plads;;False;1
+1438;Kõbenhavn K;Orlogsvërftvej;;False;1
+1439;Kõbenhavn K;A.H. Vedels Plads;;False;1
+1439;Kõbenhavn K;Bradbënken;;False;1
+1439;Kõbenhavn K;Elefanten;;False;1
+1439;Kõbenhavn K;Eskadrevej;;False;1
+1439;Kõbenhavn K;H.C. Sneedorffs AllÇ;;False;1
+1439;Kõbenhavn K;Henrik Gerners Plads;;False;1
+1439;Kõbenhavn K;Henrik Spans Vej;;False;1
+1439;Kõbenhavn K;Kongebrovej;;False;1
+1439;Kõbenhavn K;Krudtlõbsvej;;False;1
+1439;Kõbenhavn K;Minõrvej;;False;1
+1439;Kõbenhavn K;P. Lõvenõrns Vej;;False;1
+1439;Kõbenhavn K;Spanteloftvej;;False;1
+1439;Kõbenhavn K;Takkeladsvej;;False;1
+1439;Kõbenhavn K;Ved Sixtusbatteriet;;False;1
+1439;Kõbenhavn K;Ved Sõminegraven;;False;1
+1440;Kõbenhavn K;Bjõrnekloen;;False;1
+1440;Kõbenhavn K;BlÜ Karamel;;False;1
+1440;Kõbenhavn K;FabriksomrÜdet;;False;1
+1440;Kõbenhavn K;Fredens Ark;;False;1
+1440;Kõbenhavn K;Lõvehuset;;False;1
+1440;Kõbenhavn K;Mëlkebõtten;;False;1
+1440;Kõbenhavn K;Mëlkevejen;;False;1
+1440;Kõbenhavn K;NordomrÜdet;;False;1
+1440;Kõbenhavn K;Psyak;;False;1
+1440;Kõbenhavn K;SydomrÜdet;;False;1
+1440;Kõbenhavn K;Tinghuset;;False;1
+1441;Kõbenhavn K;Midtdyssen;;False;1
+1441;Kõbenhavn K;Norddyssen;;False;1
+1441;Kõbenhavn K;Syddyssen;;False;1
+1448;Kõbenhavn K;Asiatisk Plads 2;Udenrigsministeriet;False;1
+1450;Kõbenhavn K;Nytorv;;False;1
+1451;Kõbenhavn K;Larslejsstrëde;;False;1
+1452;Kõbenhavn K;TeglgÜrdstrëde;;False;1
+1453;Kõbenhavn K;Sankt Peders Strëde;;False;1
+1454;Kõbenhavn K;Larsbjõrnsstrëde;;False;1
+1455;Kõbenhavn K;Studiestrëde 3-49 og 6-40;;False;1
+1456;Kõbenhavn K;Vestergade;;False;1
+1457;Kõbenhavn K;Gammeltorv;;False;1
+1458;Kõbenhavn K;Kattesundet;;False;1
+1459;Kõbenhavn K;Frederiksberggade;;False;1
+1460;Kõbenhavn K;Mikkel Bryggers Gade;;False;1
+1461;Kõbenhavn K;Slutterigade;;False;1
+1462;Kõbenhavn K;Lavendelstrëde;;False;1
+1463;Kõbenhavn K;Farvergade;;False;1
+1464;Kõbenhavn K;Hestemõllestrëde;;False;1
+1465;Kõbenhavn K;GÜsegade;;False;1
+1466;Kõbenhavn K;RÜdhusstrëde;;False;1
+1467;Kõbenhavn K;Vandkunsten;;False;1
+1468;Kõbenhavn K;Lõngangstrëde;;False;1
+1470;Kõbenhavn K;Stormgade 2-14;;False;1
+1471;Kõbenhavn K;Ny Vestergade;;False;1
+1472;Kõbenhavn K;Ny Kongensgade 1-15 og 4-14;;False;1
+1473;Kõbenhavn K;Bryghusgade;;False;1
+1500;Kõbenhavn V;Carsten Niebuhrs Gade 4;Vesterbro Postkontor;False;1
+1501;Kõbenhavn V;Postboks;;False;1
+1502;Kõbenhavn V;Postboks;;False;1
+1503;Kõbenhavn V;Postboks;;False;1
+1504;Kõbenhavn V;Postboks;;False;1
+1505;Kõbenhavn V;Postboks;;False;1
+1506;Kõbenhavn V;Postboks;;False;1
+1507;Kõbenhavn V;Postboks;;False;1
+1508;Kõbenhavn V;Postboks;;False;1
+1509;Kõbenhavn V;Postboks;;False;1
+1510;Kõbenhavn V;Postboks;;False;1
+1512;Returpost;Carsten Niebuhrs Gade 4;(Internt);False;1
+1513;Flytninger og Nejtak;;(Internt);False;1
+1532;Kõbenhavn V;Kystvejen 26, 2770 Kastrup;Internationalt Postcenter, returforsendelser + consignment;False;1
+1533;Kõbenhavn V;Kystvejen 26, 2770 Kastrup;Internationalt Postcenter;False;1
+1550;Kõbenhavn V;Bag RÜdhuset;;False;1
+1550;Kõbenhavn V;RÜdhuspladsen;;False;1
+1551;Kõbenhavn V;Jarmers Plads;;False;1
+1552;Kõbenhavn V;Vester Voldgade;;False;1
+1553;Kõbenhavn V;H.C. Andersens Boulevard;;False;1
+1553;Kõbenhavn V;Langebro;;False;1
+1554;Kõbenhavn V;Studiestrëde 57-69 og 50-54;;False;1
+1555;Kõbenhavn V;Stormgade 20 og 35;;False;1
+1556;Kõbenhavn V;Dantes Plads;;False;1
+1557;Kõbenhavn V;Ny Kongensgade 19-21 og 18-20;;False;1
+1558;Kõbenhavn V;Christiansborggade;;False;1
+1559;Kõbenhavn V;Christians Brygge 24-30;;False;1
+1560;Kõbenhavn V;Kalvebod Brygge;;False;1
+1561;Kõbenhavn V;Fisketorvet;;False;1
+1561;Kõbenhavn V;Kalvebod Pladsvej;;False;1
+1562;Kõbenhavn V;Hambrosgade;;False;1
+1563;Kõbenhavn V;Otto Mõnsteds Plads;;False;1
+1564;Kõbenhavn V;Rysensteensgade;;False;1
+1567;Kõbenhavn V;Polititorvet;;False;1
+1568;Kõbenhavn V;Mitchellsgade;;False;1
+1569;Kõbenhavn V;Edvard Falcks Gade;;False;1
+1570;Kõbenhavn V;BanegÜrdspladsen;;False;1
+1570;Kõbenhavn V;Kõbenhavns HovedbanegÜrd;;False;1
+1571;Kõbenhavn V;Otto Mõnsteds Gade;;False;1
+1572;Kõbenhavn V;Anker Heegaards Gade;;False;1
+1573;Kõbenhavn V;Puggaardsgade;;False;1
+1574;Kõbenhavn V;Niels Brocks Gade;;False;1
+1575;Kõbenhavn V;Ved Glyptoteket;;False;1
+1576;Kõbenhavn V;Stoltenbergsgade;;False;1
+1577;Kõbenhavn V;Arni Magnussons Gade;;False;1
+1577;Kõbenhavn V;Carsten Niebuhrs Gade;;False;1
+1577;Kõbenhavn V;Bernstorffsgade;;False;1
+1592;Kõbenhavn V;Bernstorffsgade 17-19;Kõbenhavns Socialdirektorat;False;1
+1599;Kõbenhavn V;RÜdhuspladsen 1 ;Kõbenhavns RÜdhus;False;1
+1600;Kõbenhavn V;Gyldenlõvesgade ulige nr.;;False;1
+1601;Kõbenhavn V;Vester Sõgade;;False;1
+1602;Kõbenhavn V;Nyropsgade;;False;1
+1603;Kõbenhavn V;Dahlerupsgade;;False;1
+1604;Kõbenhavn V;Kampmannsgade;;False;1
+1605;Kõbenhavn V;Herholdtsgade;;False;1
+1606;Kõbenhavn V;Vester Farimagsgade;;False;1
+1607;Kõbenhavn V;Staunings Plads;;False;1
+1608;Kõbenhavn V;Jernbanegade;;False;1
+1609;Kõbenhavn V;Axeltorv;;False;1
+1610;Kõbenhavn V;Gammel Kongevej 1-55 og 10;;False;1
+1611;Kõbenhavn V;Hammerichsgade;;False;1
+1612;Kõbenhavn V;Ved Vesterport;;False;1
+1613;Kõbenhavn V;Meldahlsgade;;False;1
+1614;Kõbenhavn V;Trommesalen;;False;1
+1615;Kõbenhavn V;Sankt Jõrgens AllÇ;;False;1
+1616;Kõbenhavn V;Stenosgade;;False;1
+1617;Kõbenhavn V;Bagerstrëde;;False;1
+1618;Kõbenhavn V;Tullinsgade;;False;1
+1619;Kõbenhavn V;Vërnedamsvej lige nr.;;False;1
+1620;Kõbenhavn V;Vesterbrogade 1-149 og 2-150;;False;1
+1620;Kõbenhavn V;Vesterbros Torv;;False;1
+1621;Kõbenhavn V;Frederiksberg Alle 1 - 13B;;False;1
+1622;Kõbenhavn V;Boyesgade ulige nr;;False;1
+1623;Kõbenhavn V;Kingosgade 1-9;;False;1
+1624;Kõbenhavn V;Brorsonsgade;;False;1
+1630;Kõbenhavn V;Vesterbrogade 3;Tivoli A/S;False;1
+1631;Kõbenhavn V;Herman Triers Plads;;False;1
+1632;Kõbenhavn V;Julius Thomsens Gade lige nr;;False;1
+1633;Kõbenhavn V;Kleinsgade;;False;1
+1634;Kõbenhavn V;Rosenõrns AllÇ 2-18;;False;1
+1635;Kõbenhavn V;èboulevard 1-13;;False;1
+1650;Kõbenhavn V;Istedgade;;False;1
+1651;Kõbenhavn V;Reventlowsgade;;False;1
+1652;Kõbenhavn V;Colbjõrnsensgade;;False;1
+1653;Kõbenhavn V;Helgolandsgade;;False;1
+1654;Kõbenhavn V;Abel Cathrines Gade;;False;1
+1655;Kõbenhavn V;Viktoriagade;;False;1
+1656;Kõbenhavn V;Gasvërksvej;;False;1
+1657;Kõbenhavn V;Eskildsgade;;False;1
+1658;Kõbenhavn V;Absalonsgade;;False;1
+1659;Kõbenhavn V;Svendsgade;;False;1
+1660;Kõbenhavn V;Dannebrogsgade;;False;1
+1660;Kõbenhavn V;Otto Krabbes Plads;;False;1
+1661;Kõbenhavn V;Westend;;False;1
+1662;Kõbenhavn V;Saxogade;;False;1
+1663;Kõbenhavn V;Oehlenschlëgersgade;;False;1
+1664;Kõbenhavn V;Kaalundsgade;;False;1
+1665;Kõbenhavn V;Valdemarsgade;;False;1
+1666;Kõbenhavn V;Matthëusgade;;False;1
+1667;Kõbenhavn V;Frederiksstadsgade;;False;1
+1668;Kõbenhavn V;Mysundegade;;False;1
+1669;Kõbenhavn V;Flensborggade;;False;1
+1670;Kõbenhavn V;Enghave Plads;;False;1
+1671;Kõbenhavn V;Haderslevgade;;False;1
+1671;Kõbenhavn V;Tove Ditlevsens Plads;;False;1
+1672;Kõbenhavn V;Broagergade;;False;1
+1673;Kõbenhavn V;Ullerupgade;;False;1
+1674;Kõbenhavn V;Enghavevej 1-77 og 2-78;;False;1
+1675;Kõbenhavn V;Kongshõjgade;;False;1
+1676;Kõbenhavn V;Sankelmarksgade;;False;1
+1677;Kõbenhavn V;GrÜstensgade;;False;1
+1699;Kõbenhavn V;Staldgade;;False;1
+1700;Kõbenhavn V;Halmtorvet;;False;1
+1701;Kõbenhavn V;Reverdilsgade;;False;1
+1702;Kõbenhavn V;Stampesgade;;False;1
+1703;Kõbenhavn V;Lille Colbjõrnsensgade;;False;1
+1704;Kõbenhavn V;Tietgensgade;;False;1
+1705;Kõbenhavn V;Ingerslevsgade;;False;1
+1706;Kõbenhavn V;Lille Istedgade;;False;1
+1707;Kõbenhavn V;Maria Kirkeplads;;False;1
+1708;Kõbenhavn V;Eriksgade;;False;1
+1709;Kõbenhavn V;Skydebanegade;;False;1
+1710;Kõbenhavn V;Kvëgtorvsgade;;False;1
+1711;Kõbenhavn V;Flësketorvet;;False;1
+1711;Kõbenhavn V;Onkel Dannys Plads;;False;1
+1712;Kõbenhavn V;Hõkerboderne;;False;1
+1714;Kõbenhavn V;Kõdboderne;;False;1
+1715;Kõbenhavn V;Slagtehusgade;;False;1
+1716;Kõbenhavn V;Slagterboderne;;False;1
+1717;Kõbenhavn V;Skelbëkgade;;False;1
+1718;Kõbenhavn V;Sommerstedgade;;False;1
+1719;Kõbenhavn V;KrusÜgade;;False;1
+1720;Kõbenhavn V;Sõnder Boulevard;;False;1
+1721;Kõbenhavn V;Dybbõlsgade;;False;1
+1722;Kõbenhavn V;Godsbanegade;;False;1
+1723;Kõbenhavn V;Letlandsgade;;False;1
+1724;Kõbenhavn V;Estlandsgade;;False;1
+1725;Kõbenhavn V;Esbern Snares Gade;;False;1
+1726;Kõbenhavn V;Arkonagade;;False;1
+1727;Kõbenhavn V;Asger Rygs Gade;;False;1
+1728;Kõbenhavn V;Skjalm Hvides Gade;;False;1
+1729;Kõbenhavn V;Sigerstedgade;;False;1
+1730;Kõbenhavn V;Knud Lavards Gade;;False;1
+1731;Kõbenhavn V;Erik Ejegods Gade;;False;1
+1732;Kõbenhavn V;Bodilsgade;;False;1
+1733;Kõbenhavn V;Palnatokesgade;;False;1
+1734;Kõbenhavn V;Heilsgade;;False;1
+1735;Kõbenhavn V;Rõddinggade;;False;1
+1736;Kõbenhavn V;Bevtoftgade;;False;1
+1737;Kõbenhavn V;Bustrupgade;;False;1
+1738;Kõbenhavn V;Stenderupgade;;False;1
+1739;Kõbenhavn V;Enghave Passage;;False;1
+1749;Kõbenhavn V;Rahbeks AllÇ 3-11;;False;1
+1750;Kõbenhavn V;Vesterfëlledvej 1-9 og 2-56;;False;1
+1751;Kõbenhavn V;Sundevedsgade;;False;1
+1752;Kõbenhavn V;Tõndergade;;False;1
+1753;Kõbenhavn V;Ballumgade;;False;1
+1754;Kõbenhavn V;Hedebygade;;False;1
+1755;Kõbenhavn V;Mõgeltõndergade;;False;1
+1756;Kõbenhavn V;Amerikavej;;False;1
+1757;Kõbenhavn V;Trõjborggade;;False;1
+1758;Kõbenhavn V;Lyrskovgade;;False;1
+1759;Kõbenhavn V;Rejsbygade;;False;1
+1760;Kõbenhavn V;Ny Carlsberg Vej 1-37 og 2-66;;False;1
+1761;Kõbenhavn V;Ejderstedgade;;False;1
+1762;Kõbenhavn V;Slesvigsgade;;False;1
+1763;Kõbenhavn V;Dannevirkegade;;False;1
+1764;Kõbenhavn V;Alsgade;;False;1
+1765;Kõbenhavn V;Angelgade;;False;1
+1766;Kõbenhavn V;Slien;;False;1
+1770;Kõbenhavn V;Carstensgade;;False;1
+1771;Kõbenhavn V;Lundbyesgade;;False;1
+1772;Kõbenhavn V;Ernst Meyers Gade;;False;1
+1773;Kõbenhavn V;Bissensgade;;False;1
+1774;Kõbenhavn V;KÅchlersgade;;False;1
+1775;Kõbenhavn V;Freundsgade;;False;1
+1777;Kõbenhavn V;Jerichausgade;;False;1
+1780;Kõbenhavn V;;Erhvervskunder;False;1
+1782;Kõbenhavn V;Ufrankerede svarforsendelser;;False;1
+1785;Kõbenhavn V;RÜdhuspladsen 33 og 37;Politiken og Ekstrabladet;False;1
+1786;Kõbenhavn V;Vesterbrogade 8;Nordea;False;1
+1787;Kõbenhavn V;H.C. Andersens Boulevard 18;Dansk Industri;False;1
+1790;Kõbenhavn V;;Erhvervskunder;False;1
+1799;Kõbenhavn V;Bag Elefanterne;;False;1
+1799;Kõbenhavn V;Banevolden 2;;False;1
+1799;Kõbenhavn V;BjerregÜrdsvej 5 og 7;;False;1
+1799;Kõbenhavn V;Bryggernes Plads;;False;1
+1799;Kõbenhavn V;Gamle Carlsberg Vej;;False;1
+1799;Kõbenhavn V;Kammasvej 2, 4 og 6;;False;1
+1799;Kõbenhavn V;Ny Carlsberg Vej fra 39 og fra 68;;False;1
+1799;Kõbenhavn V;Ottilia Jacobsens Plads;;False;1
+1799;Kõbenhavn V;Pasteursvej;;False;1
+1799;Kõbenhavn V;Rahbeks AllÇ 13-15;;False;1
+1799;Kõbenhavn V;Valby Langgade 1;;False;1
+1799;Kõbenhavn V;Vesterfëlledvej 58-110;;False;1
+1800;Frederiksberg C;Vesterbrogade 161-191 og 162-208;;False;1
+1801;Frederiksberg C;Rahbeks Alle 2-36;;False;1
+1802;Frederiksberg C;Halls Alle;;False;1
+1803;Frederiksberg C;Brõndsteds Alle;;False;1
+1804;Frederiksberg C;BakkegÜrds Alle;;False;1
+1805;Frederiksberg C;Kammasvej 3;;False;1
+1806;Frederiksberg C;Jacobys Alle;;False;1
+1807;Frederiksberg C;Schlegels Alle;;False;1
+1808;Frederiksberg C;Asmussens Alle;;False;1
+1809;Frederiksberg C;Frydendalsvej;;False;1
+1810;Frederiksberg C;Platanvej;;False;1
+1811;Frederiksberg C;AsgÜrdsvej;;False;1
+1812;Frederiksberg C;Kochsvej;;False;1
+1813;Frederiksberg C;Henrik Ibsens Vej;;False;1
+1814;Frederiksberg C;Carit Etlars Vej;;False;1
+1815;Frederiksberg C;Paludan MÅllers Vej;;False;1
+1816;Frederiksberg C;Engtoftevej;;False;1
+1817;Frederiksberg C;Carl Bernhards Vej;;False;1
+1818;Frederiksberg C;Kingosgade 11-17 og 8-10;;False;1
+1819;Frederiksberg C;Vërnedamsvej ulige nr.;;False;1
+1820;Frederiksberg C;Frederiksberg Alle 15-63 og 2-104;;False;1
+1822;Frederiksberg C;Boyesgade lige nr.;;False;1
+1823;Frederiksberg C;Haveselskabetsvej;;False;1
+1824;Frederiksberg C;Sankt Thomas Alle;;False;1
+1825;Frederiksberg C;Hauchsvej;;False;1
+1826;Frederiksberg C;Alhambravej;;False;1
+1827;Frederiksberg C;Mynstersvej;;False;1
+1828;Frederiksberg C;Martensens Alle;;False;1
+1829;Frederiksberg C;Madvigs Alle;;False;1
+1835;Frederiksberg C;Postboks;;False;1
+1850;Frederiksberg C;Gammel Kongevej 85-179 og 60-178;;False;1
+1851;Frederiksberg C;Nyvej;;False;1
+1852;Frederiksberg C;Amicisvej;;False;1
+1853;Frederiksberg C;Maglekildevej;;False;1
+1854;Frederiksberg C;Dr. Priemes Vej;;False;1
+1855;Frederiksberg C;Hollëndervej;;False;1
+1856;Frederiksberg C;Edisonsvej;;False;1
+1857;Frederiksberg C;Hortensiavej;;False;1
+1860;Frederiksberg C;Christian Winthers Vej;;False;1
+1861;Frederiksberg C;Sagasvej;;False;1
+1862;Frederiksberg C;Rathsacksvej;;False;1
+1863;Frederiksberg C;Ceresvej;;False;1
+1864;Frederiksberg C;Grundtvigsvej;;False;1
+1865;Frederiksberg C;Grundtvigs Sidevej;;False;1
+1866;Frederiksberg C;Henrik Steffens Vej;;False;1
+1867;Frederiksberg C;Acaciavej;;False;1
+1868;Frederiksberg C;Bianco Lunos Alle;;False;1
+1870;Frederiksberg C;BÅlowsvej;;False;1
+1871;Frederiksberg C;Thorvaldsensvej;;False;1
+1872;Frederiksberg C;Bomhoffs Have;;False;1
+1873;Frederiksberg C;Helenevej;;False;1
+1874;Frederiksberg C;Harsdorffsvej;;False;1
+1875;Frederiksberg C;Amalievej;;False;1
+1876;Frederiksberg C;Kastanievej;;False;1
+1877;Frederiksberg C;Lindevej;;False;1
+1878;Frederiksberg C;Uraniavej;;False;1
+1879;Frederiksberg C;H.C. ùrsteds Vej;;False;1
+1900;Frederiksberg C;Vodroffsvej;;False;1
+1901;Frederiksberg C;TÜrnborgvej;;False;1
+1902;Frederiksberg C;Lykkesholms Alle;;False;1
+1903;Frederiksberg C;Sankt Knuds Vej;;False;1
+1904;Frederiksberg C;ForhÜbningsholms Alle;;False;1
+1905;Frederiksberg C;Svanholmsvej;;False;1
+1906;Frederiksberg C;Schõnbergsgade;;False;1
+1908;Frederiksberg C;Prinsesse Maries Alle;;False;1
+1909;Frederiksberg C;Vodroffs Tvërgade;;False;1
+1910;Frederiksberg C;Danasvej;;False;1
+1911;Frederiksberg C;Niels Ebbesens Vej;;False;1
+1912;Frederiksberg C;Svend Trõsts Vej;;False;1
+1913;Frederiksberg C;Carl Plougs Vej;;False;1
+1914;Frederiksberg C;Vodroffslund;;False;1
+1915;Frederiksberg C;Danas Plads;;False;1
+1916;Frederiksberg C;Norsvej;;False;1
+1917;Frederiksberg C;Sveasvej;;False;1
+1920;Frederiksberg C;Forchhammersvej;;False;1
+1921;Frederiksberg C;Sankt Markus Plads;;False;1
+1922;Frederiksberg C;Sankt Markus Alle;;False;1
+1923;Frederiksberg C;Johnstrups Alle;;False;1
+1924;Frederiksberg C;Steenstrups Alle;;False;1
+1925;Frederiksberg C;Julius Thomsens Plads;;False;1
+1926;Frederiksberg C;Martinsvej;;False;1
+1927;Frederiksberg C;Suomisvej;;False;1
+1928;Frederiksberg C;Filippavej;;False;1
+1931;Frederiksberg C;Ufrankerede svarforsendelser ;;False;1
+1950;Frederiksberg C;Hostrupsvej;;False;1
+1951;Frederiksberg C;Christian Richardts Vej;;False;1
+1952;Frederiksberg C;Falkonervënget;;False;1
+1953;Frederiksberg C;Sankt Nikolaj Vej;;False;1
+1954;Frederiksberg C;Hostrups Have;;False;1
+1955;Frederiksberg C;Dr. Abildgaards Alle;;False;1
+1956;Frederiksberg C;L.I. Brandes Alle;;False;1
+1957;Frederiksberg C;N.J. Fjords Alle;;False;1
+1958;Frederiksberg C;Rolighedsvej;;False;1
+1959;Frederiksberg C;FalkonergÜrdsvej;;False;1
+1960;Frederiksberg C;èboulevard 15-55;;False;1
+1961;Frederiksberg C;J.M. Thieles Vej;;False;1
+1962;Frederiksberg C;Fuglevangsvej;;False;1
+1963;Frederiksberg C;Bille Brahes Vej;;False;1
+1964;Frederiksberg C;Ingemannsvej;;False;1
+1965;Frederiksberg C;Erik Menveds Vej;;False;1
+1966;Frederiksberg C;Steenwinkelsvej;;False;1
+1967;Frederiksberg C;SvanemosegÜrdsvej;;False;1
+1970;Frederiksberg C;Rosenõrns Alle 1-67 og 22-70;;False;1
+1971;Frederiksberg C;Adolph Steens Alle;;False;1
+1972;Frederiksberg C;Worsaaesvej;;False;1
+1973;Frederiksberg C;Jakob Dannefërds Vej;;False;1
+1974;Frederiksberg C;Julius Thomsens Gade ulige nr.;;False;1
+2000;Frederiksberg;;;False;1
+2100;Kõbenhavn ù;;;False;1
+2150;Nordhavn;;;False;1
+2200;Kõbenhavn N;;;False;1
+2300;Kõbenhavn S;;;False;1
+2400;Kõbenhavn NV;;;False;1
+2412;Grõnland;Post til Julemanden;;;
+2450;Kõbenhavn SV;;;False;1
+2500;Valby;;;False;1
+2600;Glostrup;;;True;1
+2605;Brõndby;;;True;1
+2610;Rõdovre;;;True;1
+2620;Albertslund;;;True;1
+2625;Vallensbëk;;;True;1
+2630;Taastrup;;;True;1
+2635;Ishõj;;;True;1
+2640;Hedehusene;;;True;1
+2644;Spejdernes Lejr 2022;;Landslejr Hedeland 2021;False;1
+2650;Hvidovre;;;True;1
+2660;Brõndby Strand;;;True;1
+2665;Vallensbëk Strand;;;True;1
+2670;Greve;;;True;1
+2680;Solrõd Strand;;;True;1
+2690;Karlslunde;;;True;1
+2700;Brõnshõj;;;False;1
+2720;Vanlõse;;;False;1
+2730;Herlev;;;True;1
+2740;Skovlunde;;;True;1
+2750;Ballerup;;;True;1
+2760;MÜlõv;;;True;1
+2765;Smõrum;;;True;1
+2770;Kastrup;;;True;1
+2791;Dragõr;;;True;1
+2800;Kongens Lyngby;;;True;1
+2820;Gentofte;;;True;1
+2830;Virum;;;True;1
+2840;Holte;;;True;1
+2850;Nërum;;;True;1
+2860;Sõborg;;;True;1
+2870;DyssegÜrd;;;True;1
+2880;Bagsvërd;;;True;1
+2900;Hellerup;;;True;1
+2920;Charlottenlund;;;True;1
+2930;Klampenborg;;;True;1
+2942;Skodsborg;;;True;1
+2950;Vedbëk;;;True;1
+2960;Rungsted Kyst;;;True;1
+2970;Hõrsholm;;;True;1
+2980;Kokkedal;;;True;1
+2990;NivÜ;;;True;1
+3000;Helsingõr;;;True;1
+3050;Humlebëk;;;True;1
+3060;Espergërde;;;True;1
+3070;Snekkersten;;;True;1
+3080;Tikõb;;;True;1
+3100;Hornbëk;;;True;1
+3120;Dronningmõlle;;;True;1
+3140;èlsgÜrde;;;True;1
+3150;Hellebëk;;;True;1
+3200;Helsinge;;;True;1
+3210;Vejby;;;True;1
+3220;Tisvildeleje;;;True;1
+3230;Grësted;;;True;1
+3250;Gilleleje;;;True;1
+3300;Frederiksvërk;;;True;1
+3310;ùlsted;;;True;1
+3320;Skëvinge;;;True;1
+3330;Gõrlõse;;;True;1
+3360;Liseleje;;;True;1
+3370;Melby;;;True;1
+3390;Hundested;;;True;1
+3400;Hillerõd;;;True;1
+3450;Allerõd;;;True;1
+3460;Birkerõd;;;True;1
+3480;Fredensborg;;;True;1
+3490;KvistgÜrd;;;True;1
+3500;Vërlõse;;;True;1
+3520;Farum;;;True;1
+3540;Lynge;;;True;1
+3550;Slangerup;;;True;1
+3600;Frederikssund;;;True;1
+3630;Jëgerspris;;;True;1
+3650;ùlstykke;;;True;1
+3660;Stenlõse;;;True;1
+3670;Veksõ Sjëlland;;;True;1
+3700;Rõnne;;;True;1
+3720;Aakirkeby;;;True;1
+3730;Nexõ;;;True;1
+3740;Svaneke;;;True;1
+3751;ùstermarie;;;True;1
+3760;Gudhjem;;;True;1
+3770;Allinge;;;True;1
+3782;Klemensker;;;True;1
+3790;Hasle;;;True;1
+4000;Roskilde;;;True;1
+4030;Tune;;;True;1
+4040;Jyllinge;;;True;1
+4050;Skibby;;;True;1
+4060;Kirke SÜby;;;True;1
+4070;Kirke Hyllinge;;;True;1
+4100;Ringsted;;;True;1
+4129;Ringsted;Ufrankerede svarforsendelser;;True;1
+4130;Viby Sjëlland;;;True;1
+4140;Borup;;;True;1
+4160;Herlufmagle;;;True;1
+4171;Glumsõ;;;True;1
+4173;Fjenneslev;;;True;1
+4174;Jystrup Midtsj;;;True;1
+4180;Sorõ;;;True;1
+4190;Munke Bjergby;;;True;1
+4200;Slagelse;;;True;1
+4220;Korsõr;;;True;1
+4230;Skëlskõr;;;True;1
+4241;Vemmelev;;;True;1
+4242;Boeslunde;;;True;1
+4243;Rude;;;True;1
+4244;Agersõ;;;True;1
+4245;Omõ;;;True;1
+4250;Fuglebjerg;;;True;1
+4261;Dalmose;;;True;1
+4262;Sandved;;;True;1
+4270;Hõng;;;True;1
+4281;Gõrlev;;;True;1
+4291;Ruds Vedby;;;True;1
+4293;Dianalund;;;True;1
+4295;Stenlille;;;True;1
+4296;Nyrup;;;True;1
+4300;Holbëk;;;True;1
+4305;Orõ;;;True;1
+4320;Lejre;;;True;1
+4330;Hvalsõ;;;True;1
+4340;Tõllõse;;;True;1
+4350;Ugerlõse;;;True;1
+4360;Kirke Eskilstrup;;;True;1
+4370;Store Merlõse;;;True;1
+4390;Vipperõd;;;True;1
+4400;Kalundborg;;;True;1
+4420;Regstrup;;;True;1
+4440;Mõrkõv;;;True;1
+4450;Jyderup;;;True;1
+4460;Snertinge;;;True;1
+4470;Svebõlle;;;True;1
+4480;Store Fuglede;;;True;1
+4490;Jerslev Sjëlland;;;True;1
+4500;Nykõbing Sj;;;True;1
+4520;Svinninge;;;True;1
+4532;Gislinge;;;True;1
+4534;Hõrve;;;True;1
+4540;FÜrevejle;;;True;1
+4550;Asnës;;;True;1
+4560;Vig;;;True;1
+4571;Grevinge;;;True;1
+4572;Nõrre Asmindrup;;;True;1
+4573;Hõjby;;;True;1
+4581;Rõrvig;;;True;1
+4583;Sjëllands Odde;;;True;1
+4591;Fõllenslev;;;True;1
+4592;Sejerõ;;;True;1
+4593;Eskebjerg;;;True;1
+4600;Kõge;;;True;1
+4621;Gadstrup;;;True;1
+4622;Havdrup;;;True;1
+4623;Lille Skensved;;;True;1
+4632;Bjëverskov;;;True;1
+4640;Faxe;;;True;1
+4652;HÜrlev;;;True;1
+4653;Karise;;;True;1
+4654;Faxe Ladeplads;;;True;1
+4660;Store Heddinge;;;True;1
+4671;Strõby;;;True;1
+4672;Klippinge;;;True;1
+4673;Rõdvig Stevns;;;True;1
+4681;Herfõlge;;;True;1
+4682;Tureby;;;True;1
+4683;Rõnnede;;;True;1
+4684;Holmegaard;;;True;1
+4690;Haslev;;;True;1
+4700;Nëstved;;;True;1
+4720;Prëstõ;;;True;1
+4733;Tappernõje;;;True;1
+4735;Mern;;;True;1
+4736;Karrebëksminde;;;True;1
+4750;Lundby;;;True;1
+4760;Vordingborg;;;True;1
+4771;Kalvehave;;;True;1
+4772;Langebëk;;;True;1
+4773;Stensved;;;True;1
+4780;Stege;;;True;1
+4791;Borre;;;True;1
+4792;Askeby;;;True;1
+4793;Bogõ By;;;True;1
+4800;Nykõbing F;;;True;1
+4840;Nõrre Alslev;;;True;1
+4850;Stubbekõbing;;;True;1
+4862;Guldborg;;;True;1
+4863;Eskilstrup;;;True;1
+4871;Horbelev;;;True;1
+4872;Idestrup;;;True;1
+4873;Vëggerlõse;;;True;1
+4874;Gedser;;;True;1
+4880;Nysted;;;True;1
+4891;Toreby L;;;True;1
+4892;Kettinge;;;True;1
+4894;ùster Ulslev;;;True;1
+4895;Errindlev;;;True;1
+4900;Nakskov;;;True;1
+4912;Harpelunde;;;True;1
+4913;Horslunde;;;True;1
+4920;Sõllested;;;True;1
+4930;Maribo;;;True;1
+4941;Bandholm;;;True;1
+4942;Askõ og Lilleõ;;;True;1
+4943;Torrig L;;;True;1
+4944;Fejõ;;;True;1
+4945;Femõ;;;True;1
+4951;Nõrreballe;;;True;1
+4952;Stokkemarke;;;True;1
+4953;Vesterborg;;;True;1
+4960;Holeby;;;True;1
+4970;Rõdby;;;True;1
+4983;Dannemare;;;True;1
+4990;Sakskõbing;;;True;1
+4992;Midtsjëlland USF P;Ufrankerede svarforsendelser;;True;1
+5000;Odense C;;;True;1
+5029;Odense C;Ufrankerede svarforsendelser;;True;1
+5100;Odense C;Postboks;;True;1
+5200;Odense V;;;True;1
+5210;Odense NV;;;True;1
+5220;Odense Sù;;;True;1
+5230;Odense M;;;True;1
+5240;Odense Nù;;;True;1
+5250;Odense SV;;;True;1
+5260;Odense S;;;True;1
+5270;Odense N;;;True;1
+5290;Marslev;;;True;1
+5300;Kerteminde;;;True;1
+5320;Agedrup;;;True;1
+5330;Munkebo;;;True;1
+5350;Rynkeby;;;True;1
+5370;Mesinge;;;True;1
+5380;Dalby;;;True;1
+5390;Martofte;;;True;1
+5400;Bogense;;;True;1
+5450;Otterup;;;True;1
+5462;Morud;;;True;1
+5463;Harndrup;;;True;1
+5464;Brenderup Fyn;;;True;1
+5466;Asperup;;;True;1
+5471;Sõndersõ;;;True;1
+5474;Veflinge;;;True;1
+5485;Skamby;;;True;1
+5491;Blommenslyst;;;True;1
+5492;Vissenbjerg;;;True;1
+5500;Middelfart;;;True;1
+5540;Ullerslev;;;True;1
+5550;Langeskov;;;True;1
+5560;Aarup;;;True;1
+5580;Nõrre Aaby;;;True;1
+5591;Gelsted;;;True;1
+5592;Ejby;;;True;1
+5600;Faaborg;;;True;1
+5601;Lyõ;;;True;1
+5602;Avernakõ;;;True;1
+5603;Bjõrnõ;;;True;1
+5610;Assens;;;True;1
+5620;Glamsbjerg;;;True;1
+5631;Ebberup;;;True;1
+5642;Millinge;;;True;1
+5672;Broby;;;True;1
+5683;Haarby;;;True;1
+5690;Tommerup;;;True;1
+5700;Svendborg;;;True;1
+5750;Ringe;;;True;1
+5762;Vester Skerninge;;;True;1
+5771;Stenstrup;;;True;1
+5772;Kvërndrup;;;True;1
+5792;èrslev;;;True;1
+5800;Nyborg;;;True;1
+5853;ùrbëk;;;True;1
+5854;Gislev;;;True;1
+5856;Ryslinge;;;True;1
+5863;Ferritslev Fyn;;;True;1
+5871;Frõrup;;;True;1
+5874;Hesselager;;;True;1
+5881;SkÜrup Fyn;;;True;1
+5882;Vejstrup;;;True;1
+5883;Oure;;;True;1
+5884;Gudme;;;True;1
+5892;Gudbjerg Sydfyn;;;True;1
+5900;Rudkõbing;;;True;1
+5932;Humble;;;True;1
+5935;Bagenkop;;;True;1
+5943;Strynõ;;;True;1
+5953;Tranekër;;;True;1
+5960;Marstal;;;True;1
+5965;Birkholm;;;True;1
+5970;írõskõbing;;;True;1
+5985;Sõby írõ;;;True;1
+6000;Kolding;;;True;1
+6040;Egtved;;;True;1
+6051;Almind;;;True;1
+6052;Viuf;;;True;1
+6064;Jordrup;;;True;1
+6070;Christiansfeld;;;True;1
+6091;Bjert;;;True;1
+6092;Sõnder Stenderup;;;True;1
+6093;Sjõlund;;;True;1
+6094;Hejls;;;True;1
+6100;Haderslev;;;True;1
+6200;Aabenraa;;;True;1
+6210;Barsõ;;;True;1
+6230;Rõdekro;;;True;1
+6240;Lõgumkloster;;;True;1
+6261;Bredebro;;;True;1
+6270;Tõnder;;;True;1
+6280;Hõjer;;;True;1
+6300;GrÜsten;;;True;1
+6310;Broager;;;True;1
+6320;Egernsund;;;True;1
+6330;Padborg;;;True;1
+6340;KrusÜ;;;True;1
+6360;Tinglev;;;True;1
+6372;Bylderup-Bov;;;True;1
+6392;Bolderslev;;;True;1
+6400;Sõnderborg;;;True;1
+6430;Nordborg;;;True;1
+6440;Augustenborg;;;True;1
+6470;Sydals;;;True;1
+6500;Vojens;;;True;1
+6510;Gram;;;True;1
+6520;Toftlund;;;True;1
+6534;Agerskov;;;True;1
+6535;Branderup J;;;True;1
+6541;Bevtoft;;;True;1
+6560;Sommersted;;;True;1
+6580;Vamdrup;;;True;1
+6600;Vejen;;;True;1
+6621;Gesten;;;True;1
+6622;Bëkke;;;True;1
+6623;Vorbasse;;;True;1
+6630;Rõdding;;;True;1
+6640;Lunderskov;;;True;1
+6650;Brõrup;;;True;1
+6660;Lintrup;;;True;1
+6670;Holsted;;;True;1
+6682;Hovborg;;;True;1
+6683;Fõvling;;;True;1
+6690;Gõrding;;;True;1
+6700;Esbjerg;;;True;1
+6701;Esbjerg;Postboks;;True;1
+6705;Esbjerg ù;;;True;1
+6710;Esbjerg V;;;True;1
+6715;Esbjerg N;;;True;1
+6720;Fanõ;;;True;1
+6731;Tjëreborg;;;True;1
+6740;Bramming;;;True;1
+6752;Glejbjerg;;;True;1
+6753;Agerbëk;;;True;1
+6760;Ribe;;;True;1
+6771;Gredstedbro;;;True;1
+6780;Skërbëk;;;True;1
+6792;Rõmõ;;;True;1
+6800;Varde;;;True;1
+6818;èrre;;;True;1
+6823;Ansager;;;True;1
+6830;Nõrre Nebel;;;True;1
+6840;Oksbõl;;;True;1
+6851;Janderup Vestj;;;True;1
+6852;Billum;;;True;1
+6853;Vejers Strand;;;True;1
+6854;Henne;;;True;1
+6855;Outrup;;;True;1
+6857;BlÜvand;;;True;1
+6862;Tistrup;;;True;1
+6870;ùlgod;;;True;1
+6880;Tarm;;;True;1
+6893;Hemmet;;;True;1
+6900;Skjern;;;True;1
+6920;Videbëk;;;True;1
+6933;Kibëk;;;True;1
+6940;Lem St;;;True;1
+6950;Ringkõbing;;;True;1
+6960;Hvide Sande;;;True;1
+6971;Spjald;;;True;1
+6973;ùrnhõj;;;True;1
+6980;Tim;;;True;1
+6990;Ulfborg;;;True;1
+7000;Fredericia;;;True;1
+7007;Fredericia;;Sydjyllands Postcenter + erhvervskunder;True;1
+7017;Taulov Pakkecenter;;(Returpakker);True;1
+7018;Pakker TLP;;(Returpakker);True;1
+7029;Fredericia;Ufrankerede svarforsendelser;;True;1
+7080;Bõrkop;;;True;1
+7100;Vejle;;;True;1
+7120;Vejle ùst;;;True;1
+7130;Juelsminde;;;True;1
+7140;Stouby;;;True;1
+7150;Barrit;;;True;1
+7160;Tõrring;;;True;1
+7171;Uldum;;;True;1
+7173;Vonge;;;True;1
+7182;Bredsten;;;True;1
+7183;Randbõl;;;True;1
+7184;Vandel;;;True;1
+7190;Billund;;;True;1
+7200;Grindsted;;;True;1
+7250;Hejnsvig;;;True;1
+7260;Sõnder Omme;;;True;1
+7270;Stakroge;;;True;1
+7280;Sõnder Felding;;;True;1
+7300;Jelling;;;True;1
+7321;Gadbjerg;;;True;1
+7323;Give;;;True;1
+7330;Brande;;;True;1
+7361;Ejstrupholm;;;True;1
+7362;Hampen;;;True;1
+7400;Herning;;;True;1
+7429;Herning;Ufrankerede svarforsendelser;;True;1
+7430;Ikast;;;True;1
+7441;Bording;;;True;1
+7442;Engesvang;;;True;1
+7451;Sunds;;;True;1
+7470;Karup J;;;True;1
+7480;Vildbjerg;;;True;1
+7490;Aulum;;;True;1
+7500;Holstebro;;;True;1
+7540;Haderup;;;True;1
+7550;Sõrvad;;;True;1
+7560;Hjerm;;;True;1
+7570;Vemb;;;True;1
+7600;Struer;;;True;1
+7620;Lemvig;;;True;1
+7650;Bõvlingbjerg;;;True;1
+7660;Bëkmarksbro;;;True;1
+7673;Harboõre;;;True;1
+7680;Thyborõn;;;True;1
+7700;Thisted;;;True;1
+7730;Hanstholm;;;True;1
+7741;Frõstrup;;;True;1
+7742;Veslõs;;;True;1
+7752;Snedsted;;;True;1
+7755;Bedsted Thy;;;True;1
+7760;Hurup Thy;;;True;1
+7770;Vestervig;;;True;1
+7790;Thyholm;;;True;1
+7800;Skive;;;True;1
+7830;Vinderup;;;True;1
+7840;Hõjslev;;;True;1
+7850;Stoholm Jyll;;;True;1
+7860;Spõttrup;;;True;1
+7870;Roslev;;;True;1
+7884;Fur;;;True;1
+7900;Nykõbing M;;;True;1
+7950;Erslev;;;True;1
+7960;Karby;;;True;1
+7970;Redsted M;;;True;1
+7980;Vils;;;True;1
+7990;ùster Assels;;;True;1
+7992;Sydjylland/Fyn USF P;Ufrankerede svarforsendelser;;True;1
+7993;Sydjylland/Fyn USF B;Ufrankerede svarforsendelser;;True;1
+7996;Fakturaservice;;(Post til scanning);True;1
+7997;Fakturascanning;;(Post til scanning);True;1
+7998;Statsservice;;(Post til scanning);True;1
+7999;Kommunepost;;(Post til scanning);True;1
+8000;Aarhus C;;;True;1
+8100;Aarhus C;Postboks;;True;1
+8200;Aarhus N;;;True;1
+8210;Aarhus V;;;True;1
+8220;Brabrand;;;True;1
+8229;Risskov ù;Ufrankerede svarforsendelser;;True;1
+8230;èbyhõj;;;True;1
+8240;Risskov;;;True;1
+8245;Risskov ù;;ùstjyllands Postcenter + erhvervskunder;True;1
+8250;EgÜ;;;True;1
+8260;Viby J;;;True;1
+8270;Hõjbjerg;;;True;1
+8300;Odder;;;True;1
+8305;Samsõ;;;True;1
+8310;Tranbjerg J;;;True;1
+8320;MÜrslet;;;True;1
+8330;Beder;;;True;1
+8340;Malling;;;True;1
+8350;Hundslund;;;True;1
+8355;Solbjerg;;;True;1
+8361;Hasselager;;;True;1
+8362;Hõrning;;;True;1
+8370;Hadsten;;;True;1
+8380;Trige;;;True;1
+8381;Tilst;;;True;1
+8382;Hinnerup;;;True;1
+8400;Ebeltoft;;;True;1
+8410;Rõnde;;;True;1
+8420;Knebel;;;True;1
+8444;Balle;;;True;1
+8450;Hammel;;;True;1
+8462;Harlev J;;;True;1
+8464;Galten;;;True;1
+8471;Sabro;;;True;1
+8472;Sporup;;;True;1
+8500;Grenaa;;;True;1
+8520;Lystrup;;;True;1
+8530;Hjortshõj;;;True;1
+8541;Skõdstrup;;;True;1
+8543;Hornslet;;;True;1
+8544;Mõrke;;;True;1
+8550;RyomgÜrd;;;True;1
+8560;Kolind;;;True;1
+8570;Trustrup;;;True;1
+8581;Nimtofte;;;True;1
+8585;Glesborg;;;True;1
+8586;ùrum Djurs;;;True;1
+8592;Anholt;;;True;1
+8600;Silkeborg;;;True;1
+8620;Kjellerup;;;True;1
+8632;Lemming;;;True;1
+8641;Sorring;;;True;1
+8643;Ans By;;;True;1
+8653;Them;;;True;1
+8654;Bryrup;;;True;1
+8660;Skanderborg;;;True;1
+8670;LÜsby;;;True;1
+8680;Ry;;;True;1
+8700;Horsens;;;True;1
+8721;DaugÜrd;;;True;1
+8722;Hedensted;;;True;1
+8723;Lõsning;;;True;1
+8732;HovedgÜrd;;;True;1
+8740;Brëdstrup;;;True;1
+8751;Gedved;;;True;1
+8752;ùstbirk;;;True;1
+8762;Flemming;;;True;1
+8763;Rask Mõlle;;;True;1
+8765;Klovborg;;;True;1
+8766;Nõrre Snede;;;True;1
+8781;Stenderup;;;True;1
+8783;Hornsyld;;;True;1
+8789;Endelave;;;True;1
+8799;Tunõ;;;True;1
+8800;Viborg;;;True;1
+8830;Tjele;;;True;1
+8831;Lõgstrup;;;True;1
+8832;Skals;;;True;1
+8840;Rõdkërsbro;;;True;1
+8850;Bjerringbro;;;True;1
+8860;Ulstrup;;;True;1
+8870;LangÜ;;;True;1
+8881;Thorsõ;;;True;1
+8882;FÜrvang;;;True;1
+8883;Gjern;;;True;1
+8900;Randers C;;;True;1
+8920;Randers NV;;;True;1
+8930;Randers Nù;;;True;1
+8940;Randers SV;;;True;1
+8950;ùrsted;;;True;1
+8960;Randers Sù;;;True;1
+8961;AllingÜbro;;;True;1
+8963;Auning;;;True;1
+8970;Havndal;;;True;1
+8981;Spentrup;;;True;1
+8983;Gjerlev J;;;True;1
+8990;FÜrup;;;True;1
+9000;Aalborg;;;True;1
+9029;Aalborg;Ufrankerede svarforsendelser;;True;1
+9100;Aalborg;Postboks;;True;1
+9200;Aalborg SV;;;True;1
+9210;Aalborg Sù;;;True;1
+9220;Aalborg ùst;;;True;1
+9230;Svenstrup J;;;True;1
+9240;Nibe;;;True;1
+9260;Gistrup;;;True;1
+9270;Klarup;;;True;1
+9280;Storvorde;;;True;1
+9293;Kongerslev;;;True;1
+9300;Sëby;;;True;1
+9310;Vodskov;;;True;1
+9320;Hjallerup;;;True;1
+9330;Dronninglund;;;True;1
+9340;Asaa;;;True;1
+9352;Dybvad;;;True;1
+9362;Gandrup;;;True;1
+9370;Hals;;;True;1
+9380;Vestbjerg;;;True;1
+9381;Sulsted;;;True;1
+9382;Tylstrup;;;True;1
+9400;Nõrresundby;;;True;1
+9430;Vadum;;;True;1
+9440;Aabybro;;;True;1
+9460;Brovst;;;True;1
+9480;Lõkken;;;True;1
+9490;Pandrup;;;True;1
+9492;Blokhus;;;True;1
+9493;Saltum;;;True;1
+9500;Hobro;;;True;1
+9510;Arden;;;True;1
+9520;Skõrping;;;True;1
+9530;Stõvring;;;True;1
+9541;Suldrup;;;True;1
+9550;Mariager;;;True;1
+9560;Hadsund;;;True;1
+9574;Bëlum;;;True;1
+9575;Terndrup;;;True;1
+9600;Aars;;;True;1
+9610;Nõrager;;;True;1
+9620;Aalestrup;;;True;1
+9631;Gedsted;;;True;1
+9632;Mõldrup;;;True;1
+9640;Farsõ;;;True;1
+9670;Lõgstõr;;;True;1
+9681;Ranum;;;True;1
+9690;Fjerritslev;;;True;1
+9700;Brõnderslev;;;True;1
+9740;Jerslev J;;;True;1
+9750;ùstervrÜ;;;True;1
+9760;VrÜ;;;True;1
+9800;Hjõrring;;;True;1
+9830;TÜrs;;;True;1
+9850;Hirtshals;;;True;1
+9870;Sindal;;;True;1
+9881;Bindslev;;;True;1
+9900;Frederikshavn;;;True;1
+9940;Lësõ;;;True;1
+9970;Strandby;;;True;1
+9981;Jerup;;;True;1
+9982;èlbëk;;;True;1
+9990;Skagen;;;True;1
+9992;Jylland USF P;Ufrankerede svarforsendelser;;True;1
+9993;Jylland USF B;Ufrankerede svarforsendelser;;True;1
+9996;Fakturaservice;;(Post til scanning);True;1
+9997;Fakturascanning;;(Post til scanning);True;1
+9998;Borgerservice;;(Post til scanning);True;1
+2412;Santa Claus/Julemanden;;;False;2
+3900;Nuuk;;;False;2
+3905;Nuussuaq;;;False;2
+3910;Kangerlussuaq;;;False;2
+3911;Sisimiut;;;False;2
+3912;Maniitsoq;;;False;2
+3913;Tasiilaq;;;False;2
+3915;Kulusuk;;;False;2
+3919;Alluitsup Paa;;;False;2
+3920;Qaqortoq;;;False;2
+3921;Narsaq;;;False;2
+3922;Nanortalik;;;False;2
+3923;Narsarsuaq;;;False;2
+3924;Ikerasassuaq;;;False;2
+3930;Kangilinnguit;;;False;2
+3932;Arsuk;;;False;2
+3940;Paamiut;;;False;2
+3950;Aasiaat;;;False;2
+3951;Qasigiannguit;;;False;2
+3952;Ilulissat;;;False;2
+3953;Qeqertarsuaq;;;False;2
+3955;Kangaatsiaq;;;False;2
+3961;Uummannaq;;;False;2
+3962;Upernavik;;;False;2
+3964;Qaarsut;;;False;2
+3970;Pituffik;;;False;2
+3971;Qaanaaq;;;False;2
+3972;Station Nord;;;False;2
+3980;Ittoqqortoormiit;;;False;2
+3982;Mestersvig;;;False;2
+3984;Danmarkshavn;;;False;2
+3985;Constable Pynt;;;False;2
+3992;Slëdepatrulje Sirius;;;False ;2
+100;T¢rshavn;;;False;3
+110;T¢rshavn ;Postboks;;False;3
+160;Argir;;;False;3
+165;Argir ;Postboks;;False;3
+175;Kirkjubõur;;;False;3
+176;Velbastadur;;;False;3
+177;Sydradalur, Streymoy;;;False;3
+178;Nordradalur;;;False;3
+180;Kaldbak;;;False;3
+185;Kaldbaksbotnur;;;False;3
+186;Sund;;;False;3
+187;Hvitanes;;;False;3
+188;Hoyv°k;;;False;3
+210;Sandur;;;False;3
+215;Sandur;Postboks;;False;3
+220;Sk†lav°k;;;False;3
+230;H£sav°k;;;False;3
+235;Dalur;;;False;3
+236;Skarvanes;;;False;3
+240;Skopun;;;False;3
+260;Sk£voy;;;False;3
+270;N¢lsoy;;;False;3
+280;Hestur;;;False;3
+285;Koltur;;;False;3
+286;St¢ra Dimun;;;False;3
+330;Stykkid;;;False;3
+335;Leynar;;;False;3
+336;Skëllingur;;;False;3
+340;Kv°v°k;;;False;3
+350;Vestmanna;;;False;3
+355;Vestmanna;Postboks;;False;3
+358;V†lur;;;False;3
+360;Sandav†gur;;;False;3
+370;Midv†gur;;;False;3
+375;Midv†gur;Postboks;;False;3
+380;Sõrv†gur;;;False;3
+385;Vatnsoyrar;;;False;3
+386;Bõur;;;False;3
+387;G†sadalur;;;False;3
+388;Mykines;;;False;3
+400;Oyrarbakki;;;False;3
+405;Oyrarbakki;Postboks;;False;3
+410;Kollafjõrdur;;;False;3
+415;Oyrareingir;;;False;3
+416;Signabõur;;;False;3
+420;H¢sv°k;;;False;3
+430;Hvalv°k;;;False;3
+435;Streymnes;;;False;3
+436;Saksun;;;False;3
+437;Nesv°k;;;False;3
+438;Langasandur;;;False;3
+440;Haldarsv°k;;;False;3
+445;Tjõrnuv°k;;;False;3
+450;Oyri;;;False;3
+460;Nordsk†li;;;False;3
+465;Svin†ir;;;False;3
+466;Lj¢s†;;;False;3
+470;Eidi;;;False;3
+475;Funningur;;;False;3
+476;Gj¢gv;;;False;3
+477;Funningsfjõrdur;;;False;3
+478;Elduv°k;;;False;3
+480;Sk†li;;;False;3
+485;Sk†lafjõrdur;;;False;3
+490;Strendur;;;False;3
+494;Innan Glyvur;;;False;3
+495;Kolbanargj¢gv;;;False;3
+496;Morskranes;;;False;3
+497;Selatrad;;;False;3
+510;Gõta;;;False;3
+511;Gõtugj¢gv;;;False;3
+512;Nordragõta;;;False;3
+513;Sydrugõta;;;False;3
+515;Gõta;Postboks;;False;3
+520;Leirv°k;;;False;3
+530;Fuglafjõrdur;;;False;3
+535;Fuglafjõrdur;Postboks;;False;3
+600;Saltangar†;;;False;3
+610;Saltangar†;Postboks;;False;3
+620;Runav°k;;;False;3
+625;Glyvrar;;;False;3
+626;Lambareidi;;;False;3
+627;Lambi;;;False;3
+640;Rituv°k;;;False;3
+645;íduv°k;;;False;3
+650;Toftir;;;False;3
+655;Nes, Eysturoy;;;False;3
+656;Saltnes;;;False;3
+660;Sõldarfjõrdur;;;False;3
+665;Skipanes;;;False;3
+666;Gõtueidi;;;False;3
+690;Oyndarfjõrdur;;;False;3
+695;Hellur;;;False;3
+700;Klaksv°k;;;False;3
+710;Klaksv°k;Postboks;;False;3
+725;Nordoyri;;;False;3
+726;µnir;;;False;3
+727;µrnafjõrdur;;;False;3
+730;Norddepil;;;False;3
+735;Depil;;;False;3
+736;Nordtoftir;;;False;3
+737;M£li;;;False;3
+740;Hvannasund;;;False;3
+750;Vidareidi;;;False;3
+765;Svinoy;;;False;3
+766;Kirkja;;;False;3
+767;Hattarv°k;;;False;3
+780;Kunoy;;;False;3
+785;Haraldssund;;;False;3
+795;Sydradalur, Kalsoy;;;False;3
+796;H£sar;;;False;3
+797;Mikladalur;;;False;3
+798;Trõllanes;;;False;3
+800;Tvõroyri;;;False;3
+810;Tvõroyri;Postboks;;False;3
+825;Frodba;;;False;3
+826;Trongisv†gur;;;False;3
+827;ùrav°k;;;False;3
+850;Hvalba;;;False;3
+860;Sandv°k;;;False;3
+870;F†mjin;;;False;3
+900;V†gur;;;False;3
+910;V†gur;Postboks;;False;3
+925;Nes, V†gur;;;False;3
+926;Lopra;;;False;3
+927;Akrar;;;False;3
+928;Vikarbyrgi;;;False;3
+950;Porkeri;;;False;3
+960;Hov;;;False;3
+970;Sumba;;;False;3

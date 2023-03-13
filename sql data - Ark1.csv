@@ -1,0 +1,10 @@
+,,,,,,,,,,,,,
+elev_id,fornavn,efternavn,adresse,post_nr,,Fornavn,Efternavn,Adresse,PostNr,,,,
+1,Bo,Andersen,Gammel Byvej 12,2650,,,,,,,,,
+2,Frederikke,Hansen,Amager Boulevard 5,2300,,,,,,,,,
+3,Jens,Mikkelsen,Lily Brogbergs Vej 17,2500,,,,,,,,,
+4,Philip,Mortensen,Brunevang 90,2610,,,,,,,,,
+5,Kasper,Frederiksen,Bryggertorvet32,3650,,laerer_id,fornavn,efternavn,adresse,post_nr,,lokale _id,Lokale_nr
+6,Milla,Jørgensen,Virum Torv 25,2830,,1,Tom,It,Sankt Thomas Alle 3,1824,,1,A210
+7,Fie,Kudsen,Allen 85,2770,,2,Lars,Henriksen,Nissedalen 76,2740,,2,E224
+8,Henrik,Madsen,Lily Brobergs Vej53,2500,,3,Mia,Hansen,Østervej 16,2750,,3,D307
